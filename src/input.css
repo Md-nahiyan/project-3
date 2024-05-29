@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+/* @font-face {
+    font-family: "Schibsted";
+    src: url("https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap");
+} */
+
+/* @font-face {
+    font-family: "Lora";
+    src: url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
+} */
+
+/* .scrooll-primary{
+    animation: scroll-horizontal 20s linear infinite;
+}
+.scrooll-sceondary{
+    animation: scroll-horizontal 20s linear infinite;
+}
+@keyframes scroll-horizontal {
+    0%{
+        left: 100%;
+    }
+    100%{
+        left: -100%;
+    }
+}  */
+
+
+
+.services{
+    max-width: 1130px;
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.services-1{
+    max-width: 1000px;
+    margin: 30px auto;
+    width: 100%;
+}
+.project{
+    max-width: 1130px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.testimonial{
+    max-width: 1130px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.career{
+    max-width: 1030px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.career-bottom{
+    max-width: 1300px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+.blog{
+    max-width: 1130px;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.contact{
+    max-width: 1020px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.footer{
+    width: 95%;
+    margin: 0 auto;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+/* hero-section
+m:w-[86%] m:mx-auto m:pt-2
+m:py-1
+
+h1-m:text-[40px] m:leading-[44px] m:py-5
+p-m:text-[20px] m:leading-[28px]
+
+i-m:flex-col-reverse m:items-center
+
+i-div-m:mt-4 m:gap-5
+button-m:w-[95%] m:justify-center
+
+social-arae-> m:text-center m:ml-0 m:pl-0 m:py-[20px] m:font-bold m:text-[22px]
+div-> m:w-[86%] m:inline m:text-center-> m:text-3xl m:mb-3 >
+
+services-area-> h1->m:text-[48px] m:leading-[56px] h3-\> m:text-[32px] m:leading-[38px]
+
+*/
